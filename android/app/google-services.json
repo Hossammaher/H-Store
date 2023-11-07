@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609235604463",
+    "project_id": "h-store-aa1b8",
+    "storage_bucket": "h-store-aa1b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609235604463:android:67fb36202ae1359d5edc1a",
+        "android_client_info": {
+          "package_name": "com.example.h_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVsOGV4qJHZYpnAJS1yXdTA84jCL_mOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
